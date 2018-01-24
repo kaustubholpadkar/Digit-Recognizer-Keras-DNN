@@ -1,4 +1,4 @@
 # Digit-Recognizer-Keras-DNN
 
 ## Competition Details
-[https://www.kaggle.com/c/digit-recognizer]
+You can find the details of this Kaggle Competition [here](https://www.kaggle.com/c/digit-recognizer)
